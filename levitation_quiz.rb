@@ -6,7 +6,6 @@ def levitation_quiz
 	  ans = gets.chomp
 	end
 	puts "You passed the quiz!"
-	
 end
 
 
